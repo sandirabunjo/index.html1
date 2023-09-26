@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bankarsko Poslovanje</title>
+  <style>
+    body {
+      background-color: #f0f0ff; /* Svijetlo plava boja pozadine */
+      margin: 20px;
+      padding: 20px;
+    }
+    .container {
+      border: 2px solid #2980b9; /* Boja okvira */
+      padding: 20px;
+      border-radius: 10px;
+      background-color: white; /* Boja pozadine unutar okvira */
+    }
+    .navigation {
+      display: flex;
+      justify-content: space-around;
+      margin-bottom: 20px;
+    }
+    .navigation a {
+      padding: 10px 20px;
+      color: #2980b9; /* Boja teksta */
+      text-decoration: none;
+    }
+    .navigation a:hover {
+      background-color: #2980b9; /* Boja pozadine prilikom hovera */
+      color: white; /* Boja teksta prilikom hovera */
+    }
+ <style>
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  background-color: #f1f1f1;
+}
+
+li a {
+  display: block;
+  color: #000;
+  padding: 8px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color on hover */
+li a:hover {
+  background-color: #555;
+  color: white;
+}
+</style>
+<ul>
+  <li><a href="#Početno">Početno</a></li>
+  <li><a href="#Opis">Opis</a></li>
+  <li><a href="#Tabela">Tabela</a></li>
+  <li><a href="#Valute">Valute</a></li>
+</ul>
+
+
+   <CENTER> <h1>Bankarsko poslovanje</h1></CENTER> 
+
+   <center> <p>Informacije o bankarskim uslugama i poslovanju</p><hr></center>
+
+    <!-- Paragrafi -->
+    <p>Bankarsko poslovanje uključuje pružanje različitih financijskih usluga klijentima.</p>
+    <p>Usluge uključuju štednju, posuđivanja, ulaganja i druge financijske transakcije.</p>
+    <p>Bankarske institucije igraju ključnu ulogu u ekonomiji pružanjem likvidnosti i podrške razvoju.</p>
+    <p>Klijenti mogu pristupiti bankarskim uslugama putem filijala, interneta ili mobilnih aplikacija.</p>
+    <p>Bankarske usluge prilagođene su potrebama pojedinaca, tvrtki i institucija.</p>
+    <p>Bankarsko poslovanje je regulisano od strane nadležnih regulatornih tijela u svakoj zemlji.</p>
+
+  <!-- Tabela o bankarskim poslovima -->
+    <table border="1">
+      <caption></caption><hr>
+      <tr>
+      <th>Bankarska usluga</th>
+        <th>Opis</th>
+      </tr>
+      <tr>
+        <td>Štednja</td>
+        <td>Pohrana novca u banci radi pristupačnosti i zarade kamate.</td>
+      </tr>
+      <tr>
+        <td>Posuđivanja</td>
+        <td>Davanje novca klijentima uz kamatnu stopu koja se vraća u određenom roku.</td>
+      </tr>
+      <tr>
+        <td>Ulaganja</td>
+        <td>Investiranje u različite financijske instrumente radi ostvarivanja profita.</td>
+      </tr>
+      <tr>
+        <td>Transakcije</td>
+        <td>Financijske transakcije kao što su plaćanja, prijenosi sredstava i naplate.</td>
+      </tr>
+    </table>
+ <hr>
+    <!-- Slike -->
+ <center>   <img src=https://www.centarzlata.com/wp-content/uploads/2023/04/stednja-banka-kamate-slika.jpg"" alt="Slika 1" width="200" height="150">
+    <img src=" https://poslovnisvijet.ba/wp-content/uploads/2021/02/kreditna-kartica-696x435.jpg " alt="Slika 2" width="200" height="150">
+    <img src=" https://www.novosti.rs/data/images/2020-11-30/43324_komercijalnabanka24sef04_kfmob.jpg " alt="Slika 3" width="200" height="150">
+    
+  </div>
+ 
+  <head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Najjače valute</title>
+  <style>
+    body {
+      background-color: #f0f0ff; /* Svijetlo plava boja pozadine */
+      margin: 20px;
+      padding: 20px;
+    }
+    table {
+      border-collapse: collapse;
+      width: 100%;
+      margin-bottom: 20px;
+    }
+    th, td {
+      border: 1px solid #2980b9; /* Boja okvira */
+      padding: 10px;
+      text-align: left;
+    }
+    th {
+      background-color: #2980b9; /* Boja pozadine zaglavlja */
+      color: white; /* Boja teksta u zaglavlju */
+    }
+  </style>
+</head>
+<body>
+ <hr>
+
+  <table>
+ <center><p> 5 NAJJAČIH VALUTA </p>
+    <tr>
+      <th>Valuta</th>
+      <th>Kod</th>
+      <th>Trenutni tečaj prema američkom dolaru</th>
+    </tr>
+    <tr>
+      <td> Američki dolar</td>
+      <td> USD</td>
+      <td> 1.00 USD</td>
+    </tr>
+    <tr>
+      <td> Euro</td>
+      <td> EUR</td>
+      <td> 0.85 USD</td>
+    </tr>
+    <tr>
+      <td> Britanska funta</td>
+      <td> GBP</td>
+      <td> 1.38 USD</td>
+    </tr>
+    <tr>
+      <td> Japanski jen</td>
+      <td> JPY</td>
+      <td> 0.0091 USD</td>
+    </tr>
+    <tr>
+      <td> Kanadski dolar</td>
+      <td> CAD</td>
+      <td> 0.78 USD</td>
+    </tr>
+  </table>
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+</body>
+</html>
